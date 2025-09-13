@@ -1,1 +1,1 @@
-# sk-react-portfolio
+# sk-portfolio
